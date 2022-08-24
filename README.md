@@ -12,4 +12,12 @@ and others
 
 # Getting started
 
+## Git
+
 [how to setup git](https://maximtyan.github.io/dev/git_setup)
+
+
+## Python
+
+- IDE
+- venv
