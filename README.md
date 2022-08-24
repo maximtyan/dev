@@ -3,4 +3,4 @@
 personal notes on software development and development process 
 management
 
-[git_setup.md](how to setup git)
+[how to setup git](https://maximtyan.github.io/dev/git_setup)
