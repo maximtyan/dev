@@ -1,0 +1,1 @@
+# setup git on a new machine
