@@ -20,4 +20,4 @@ past years.
 ## Python
 
 - IDE
-- venv
+[virtual environment](https://maximtyan.github.io/dev/venv)]
