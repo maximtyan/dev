@@ -7,10 +7,9 @@ past years.
 
 # Getting started
 
-[Configure your computer](https://maximtyan.github.io/dev/pc-config)
-
 ## Computer configuration
 
+[Configure your computer](https://maximtyan.github.io/dev/pc-config)
 
 ## Git
 
@@ -19,5 +18,5 @@ past years.
 
 ## Python
 
-- IDE
-- venv
+- Integrated Development Environment (IDE)
+- Virtual Environment (venv)

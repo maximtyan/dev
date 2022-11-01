@@ -1,6 +1,6 @@
 # Advice for PC configuration
 
-There are several tips that can make development little bit easier 
+Tips that can make code development little bit easier 
 and more efficient regardless of programing language, OS and your 
 experience.
 
