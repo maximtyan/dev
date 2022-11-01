@@ -18,5 +18,6 @@ past years.
 
 ## Python
 
-- Integrated Development Environment (IDE)
-- Virtual Environment (venv)
+IDE
+  
+[virtual environment](https://maximtyan.github.io/dev/venv)
