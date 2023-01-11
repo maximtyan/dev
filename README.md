@@ -11,14 +11,14 @@ past years.
 
 ### Computer configuration
 
-[Configure your computer](https://maximtyan.github.io/dev/pc-config)
+[Configure your computer](pc-config.md)
 
 ## Git
 
-[how to setup git](https://maximtyan.github.io/dev/git_setup)
+[how to setup git](git_setup.md)
 
 ## Python
 
 IDE
   
-[virtual environment](https://maximtyan.github.io/dev/venv)
+[virtual environment](venv.md)
