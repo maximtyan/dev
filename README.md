@@ -1,24 +1,16 @@
-# Engineering Blog
+# Engineering Notes
 
-## about the blog
+[[About this blog and the author]](about.md)
 
-This blog summarizes my personal knowledge on software development.
-The case studies are based on multiple aircraft design,
-optimization, simulation and other projects completed during the
-past years.
+## Basics of Software Development
 
-## Getting started
+Software development and coding are not the same! In this section I will
+publish my notes on PC setup, development process and management. There
+are plenty of programming resources online. so coding part will not be
+covered. Maybe later...
 
-### Computer configuration
-
-[Configure your computer](pc-config.md)
-
-## Git
+[Computer configuration](pc-config.md)
 
 [how to setup git](git_setup.md)
 
-## Python
-
-IDE
-  
 [virtual environment](venv.md)
